@@ -9,6 +9,9 @@ wp-admin/
 #ignore wp-includes folder 
 wp-includes/
 
+#ignore wp-content/themes folder 
+wp-content/themes
+
 # ignore everything in the "wp-content" directory, except:
 # "mu-plugins", "plugins", "themes" directory
 wp-content/*
@@ -49,3 +52,5 @@ wp-login.php
 wp-mail.php
 wp-settings.php
 wp-signup.php
+wp-config.php
+.htaccess
