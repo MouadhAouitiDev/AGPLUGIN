@@ -17,7 +17,7 @@ wp-content/themes
 wp-content/*
 wp-content/mu-plugins/
 wp-content/plugins/
-wp-content/themes/
+
 
 # ignore these plugins  
 wp-content/plugins/hello.php
@@ -54,3 +54,4 @@ wp-settings.php
 wp-signup.php
 wp-config.php
 .htaccess
+wp-content/themes/
