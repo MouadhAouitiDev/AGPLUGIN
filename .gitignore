@@ -21,6 +21,8 @@ wp-content/plugins/
 
 # ignore these plugins  
 wp-content/plugins/hello.php
+
+# ignore these plugins  
 wp-content/plugins/akismet
   
 
