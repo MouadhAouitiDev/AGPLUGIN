@@ -53,4 +53,5 @@ wp-settings.php
 wp-signup.php
 wp-config.php
 .htaccess
+wp-content/themes/index.php
 wp-content/themes
